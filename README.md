@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chahatagrawal
-- 👀 I’m interested in data science and machine learning
+- 👀 I’m interested in mern stack and machine learning
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
